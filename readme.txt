@@ -1,14 +1,4 @@
-﻿=== AMP for WP - Accelerated Mobile Pages ===
-Contributors: mohammed_kaludi, ahmedkaludi, ampforwp
-Tags: AMP, accelerated mobile pages, mobile, amp project, google amp, amp wp, google, plugin, SEO
-Donate link: https://www.paypal.me/Kaludi/25
-Requires at least: 3.0
-Tested up to: 5.6
-Stable tag: 1.0.72
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-AMP for WP is the most recommended AMP plugin by the community. Automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your WordPress site.
+﻿AMP for WP is the most recommended AMP plugin by the community. Automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your WordPress site.
 
 == Description ==
 AMP for WP automatically adds Accelerated Mobile Pages (Google AMP Project) functionality to your WordPress site. AMP makes your website faster for Mobile visitors.
@@ -33,14 +23,14 @@ Bug reports for AMP for WP are [welcomed on GitHub](https://github.com/ahmedkalu
 * NEW - Google Fonts Support For All Designs
 * NEW - Addthis Sharing Support
 * NEW - AMP Infinite Scroll Support
-* NEW - Photo Gallery by 10Web Support 
-* NEW - MEWE social network Support 
+* NEW - Photo Gallery by 10Web Support
+* NEW - MEWE social network Support
 * NEW - GDPR Compliance
 * Out of the box compatiblity for Yoast SEO, All in One Seo, Rank Math, Genesis, SEOPress, Bridge Qode SEO, The SEO Framework and Squrilly SEO Plugin.
 * Introducing Page Builder 3.0 for AMP! [Learn More & Video](https://ampforwp.com/tutorials/article/amp-page-builder-installation/)
 * New Default Theme for AMP called Swift
-* 3 Pre-built AMP Layouts for Business websites and landing pages 
-* OneSignal Push Notifications integration 
+* 3 Pre-built AMP Layouts for Business websites and landing pages
+* OneSignal Push Notifications integration
 * Advanced WooCommerce Support [More Info](https://ampforwp.com/woocommerce/)
 * AMP Plugins Manager - Which allows you to disable a specific plugin functionality only in the AMP version
 * Structured Data Options
@@ -52,7 +42,7 @@ Bug reports for AMP for WP are [welcomed on GitHub](https://github.com/ahmedkalu
 * Facebook Comments Support
 * Github Gist Support
 * Email Opt-in Subscription form support in AMP added
-* Call to Action boxes and notification bars 
+* Call to Action boxes and notification bars
 * 9 Advertisement sizes - 2 More AD slots added recently
 * Comments Forms in AMP.
 * Native AMP Search functionality.
@@ -62,11 +52,11 @@ Bug reports for AMP for WP are [welcomed on GitHub](https://github.com/ahmedkalu
 * Page, Category & Tags Support Added
 * Custom AMP Editor - Which allows you to override your Content that you had written in Post or page, so you can add the different content just for AMP.
 * Mobile Redirection -  More than 50% of your traffic is from mobile and you aren’t doing anything to improve their user experience, which means you are falling behind on SEO and it can result in lower SERPS. Lightning fast mobile version means faster User experience means more engagement which directly results in the lower bounce rate.
-* Custom Post Type Support 
+* Custom Post Type Support
 * Star Ratings
-* Drag & Drop Page builder Added 
-* 4 Designs for AMP 
-* AMP WooCommerce Support 
+* Drag & Drop Page builder Added
+* 4 Designs for AMP
+* AMP WooCommerce Support
 * Switch on/off Support for Pages & Posts on AMP
 * Translation Panel & RTL
 * Internal AMP linking - You can browse AMP pages internally
@@ -99,15 +89,15 @@ Bug reports for AMP for WP are [welcomed on GitHub](https://github.com/ahmedkalu
 * Alexa Metrics, Chartbeat, Hi-stats, Yandex Metrika, Piwik, Segment.com, StatCounter, Effective Measure and comScore Builtin Support
 * Incontent & DoubleClick Support
 * Great Support & Active Development.
-* Widgets & WooCommerce 
-* Breadcrumb Support added 
+* Widgets & WooCommerce
+* Breadcrumb Support added
 * Facebook Instant Articles Support Added
 * AMP Installation Wizard that makes it easy to setup for new users.
 * Category base remover support
 * Tag base remover support
-* 7 New Social Media Integrations added (Reddit, Tumblr, Telegram, Digg, StumbleUpon, Wechat, Viber) 
+* 7 New Social Media Integrations added (Reddit, Tumblr, Telegram, Digg, StumbleUpon, Wechat, Viber)
 * AMP Theme Framework Core Support Added. You can now create AMP templates of your own in just minutes. **[More](https://ampforwp.com/amp-theme-framework/)**
-* NEW - Make AMP & Non-AMP Same with just one click! 
+* NEW - Make AMP & Non-AMP Same with just one click!
 * NEW - Allows you to use AMP as primary website!
 
 
