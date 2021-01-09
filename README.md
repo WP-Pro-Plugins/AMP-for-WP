@@ -1,13 +1,3 @@
-=== AMP for WP - Accelerated Mobile Pages ===
-Contributors: mohammed_kaludi, ahmedkaludi, ampforwp
-Tags: AMP, accelerated mobile pages, mobile, amp project, google amp, amp wp, google, plugin, SEO
-Donate link: https://www.paypal.me/Kaludi/25
-Requires at least: 3.0
-Tested up to: 5.6
-Stable tag: 1.0.72
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 AMP for WP is the most recommended AMP plugin by the community. Automatically add Accelerated Mobile Pages (Google AMP Project) functionality on your WordPress site.
 
 == Description ==
@@ -24,92 +14,90 @@ We try our best to provide support on WordPress.org forums. However, We have a s
 <strong>Bug Reports</strong><br>
 Bug reports for AMP for WP are [welcomed on GitHub](https://github.com/ahmedkaludi/Accelerated-Mobile-Pages). Please note GitHub is _not_ a support forum, and issues that aren't properly qualified as bugs will be closed.
 
-
 = Features: =
 
-* NEW - Gutenberg Support
-* NEW - Divi and Elementor Support [More Info](https://ampforwp.com/amp-pagebuilder-compatibility/)
-* NEW - Improved CSS Optimization (Tree Shaking)
-* NEW - Google Fonts Support For All Designs
-* NEW - Addthis Sharing Support
-* NEW - AMP Infinite Scroll Support
-* NEW - Photo Gallery by 10Web Support 
-* NEW - MEWE social network Support 
-* NEW - GDPR Compliance
-* Out of the box compatiblity for Yoast SEO, All in One Seo, Rank Math, Genesis, SEOPress, Bridge Qode SEO, The SEO Framework and Squrilly SEO Plugin.
-* Introducing Page Builder 3.0 for AMP! [Learn More & Video](https://ampforwp.com/tutorials/article/amp-page-builder-installation/)
-* New Default Theme for AMP called Swift
-* 3 Pre-built AMP Layouts for Business websites and landing pages 
-* OneSignal Push Notifications integration 
-* Advanced WooCommerce Support [More Info](https://ampforwp.com/woocommerce/)
-* AMP Plugins Manager - Which allows you to disable a specific plugin functionality only in the AMP version
-* Structured Data Options
-* Page Break / NextPage (Pagination) Support
-* Contact Form 7 Support [More Info](https://ampforwp.com/contact-form-7/)
-* Graviry Form Support [More Info](https://ampforwp.com/gravity-forms/)
-* Caldera Form Support [More Info](https://ampforwp.com/caldera-forms-for-amp/)
-* Ninja Form Support [More Info](https://ampforwp.com/ninja-forms/)
-* Facebook Comments Support
-* Github Gist Support
-* Email Opt-in Subscription form support in AMP added
-* Call to Action boxes and notification bars 
-* 9 Advertisement sizes - 2 More AD slots added recently
-* Comments Forms in AMP.
-* Native AMP Search functionality.
-* Design 3 [Watch the Video Overview](https://www.youtube.com/watch?v=ub1pwskt3Rc)
-* Disqus Comments Support
-* Google Tag Manager Support
-* Page, Category & Tags Support Added
-* Custom AMP Editor - Which allows you to override your Content that you had written in Post or page, so you can add the different content just for AMP.
-* Mobile Redirection -  More than 50% of your traffic is from mobile and you aren’t doing anything to improve their user experience, which means you are falling behind on SEO and it can result in lower SERPS. Lightning fast mobile version means faster User experience means more engagement which directly results in the lower bounce rate.
-* Custom Post Type Support 
-* Star Ratings
-* Drag & Drop Page builder Added 
-* 4 Designs for AMP 
-* AMP WooCommerce Support 
-* Switch on/off Support for Pages & Posts on AMP
-* Translation Panel & RTL
-* Internal AMP linking - You can browse AMP pages internally
-* Related posts below the post
-* Recent Comments list
-* Automatically integrate AMP to your website.
-* Google Adsense (AMP-AD) Support with 4 different Ad slots across the layout! The First Plugin to have this capability.
-* Built in MGID Ads Support with 6 different ad slots.
-* Google Analytics Support.
-* User Friendly Theme Options Panel.
-* Unlimited Color Scheme.
-* Image Logo Upload.
-* Supports Posts and Pages and other custom post types.
-* Proper rel canonical tags which means that Google know the original page.
-* Overlay Navigation Menu bar.
-* Social Sharing in the Single.
-* Sexy Design.
-* Separate WordPress Menu for AMP version.
-* Page builder & Shortcodes Compatibility.
-* Carousel support for Gallery.
-* Better Image stretching and resizing.
-* Youtube Video Embed Support.
-* Vine Embed Support.
-* Twitter oembed Support.
-* Instagram Embed Support.
-* Facebook Video Embed Support.
-* RTL Support
-* Custom AMP FrontPage
-* Notifications
-* Alexa Metrics, Chartbeat, Hi-stats, Yandex Metrika, Piwik, Segment.com, StatCounter, Effective Measure and comScore Builtin Support
-* Incontent & DoubleClick Support
-* Great Support & Active Development.
-* Widgets & WooCommerce 
-* Breadcrumb Support added 
-* Facebook Instant Articles Support Added
-* AMP Installation Wizard that makes it easy to setup for new users.
-* Category base remover support
-* Tag base remover support
-* 7 New Social Media Integrations added (Reddit, Tumblr, Telegram, Digg, StumbleUpon, Wechat, Viber) 
-* AMP Theme Framework Core Support Added. You can now create AMP templates of your own in just minutes. **[More](https://ampforwp.com/amp-theme-framework/)**
-* NEW - Make AMP & Non-AMP Same with just one click! 
-* NEW - Allows you to use AMP as primary website!
-
+- NEW - Gutenberg Support
+- NEW - Divi and Elementor Support [More Info](https://ampforwp.com/amp-pagebuilder-compatibility/)
+- NEW - Improved CSS Optimization (Tree Shaking)
+- NEW - Google Fonts Support For All Designs
+- NEW - Addthis Sharing Support
+- NEW - AMP Infinite Scroll Support
+- NEW - Photo Gallery by 10Web Support
+- NEW - MEWE social network Support
+- NEW - GDPR Compliance
+- Out of the box compatiblity for Yoast SEO, All in One Seo, Rank Math, Genesis, SEOPress, Bridge Qode SEO, The SEO Framework and Squrilly SEO Plugin.
+- Introducing Page Builder 3.0 for AMP! [Learn More & Video](https://ampforwp.com/tutorials/article/amp-page-builder-installation/)
+- New Default Theme for AMP called Swift
+- 3 Pre-built AMP Layouts for Business websites and landing pages
+- OneSignal Push Notifications integration
+- Advanced WooCommerce Support [More Info](https://ampforwp.com/woocommerce/)
+- AMP Plugins Manager - Which allows you to disable a specific plugin functionality only in the AMP version
+- Structured Data Options
+- Page Break / NextPage (Pagination) Support
+- Contact Form 7 Support [More Info](https://ampforwp.com/contact-form-7/)
+- Graviry Form Support [More Info](https://ampforwp.com/gravity-forms/)
+- Caldera Form Support [More Info](https://ampforwp.com/caldera-forms-for-amp/)
+- Ninja Form Support [More Info](https://ampforwp.com/ninja-forms/)
+- Facebook Comments Support
+- Github Gist Support
+- Email Opt-in Subscription form support in AMP added
+- Call to Action boxes and notification bars
+- 9 Advertisement sizes - 2 More AD slots added recently
+- Comments Forms in AMP.
+- Native AMP Search functionality.
+- Design 3 [Watch the Video Overview](https://www.youtube.com/watch?v=ub1pwskt3Rc)
+- Disqus Comments Support
+- Google Tag Manager Support
+- Page, Category & Tags Support Added
+- Custom AMP Editor - Which allows you to override your Content that you had written in Post or page, so you can add the different content just for AMP.
+- Mobile Redirection - More than 50% of your traffic is from mobile and you aren’t doing anything to improve their user experience, which means you are falling behind on SEO and it can result in lower SERPS. Lightning fast mobile version means faster User experience means more engagement which directly results in the lower bounce rate.
+- Custom Post Type Support
+- Star Ratings
+- Drag & Drop Page builder Added
+- 4 Designs for AMP
+- AMP WooCommerce Support
+- Switch on/off Support for Pages & Posts on AMP
+- Translation Panel & RTL
+- Internal AMP linking - You can browse AMP pages internally
+- Related posts below the post
+- Recent Comments list
+- Automatically integrate AMP to your website.
+- Google Adsense (AMP-AD) Support with 4 different Ad slots across the layout! The First Plugin to have this capability.
+- Built in MGID Ads Support with 6 different ad slots.
+- Google Analytics Support.
+- User Friendly Theme Options Panel.
+- Unlimited Color Scheme.
+- Image Logo Upload.
+- Supports Posts and Pages and other custom post types.
+- Proper rel canonical tags which means that Google know the original page.
+- Overlay Navigation Menu bar.
+- Social Sharing in the Single.
+- Sexy Design.
+- Separate WordPress Menu for AMP version.
+- Page builder & Shortcodes Compatibility.
+- Carousel support for Gallery.
+- Better Image stretching and resizing.
+- Youtube Video Embed Support.
+- Vine Embed Support.
+- Twitter oembed Support.
+- Instagram Embed Support.
+- Facebook Video Embed Support.
+- RTL Support
+- Custom AMP FrontPage
+- Notifications
+- Alexa Metrics, Chartbeat, Hi-stats, Yandex Metrika, Piwik, Segment.com, StatCounter, Effective Measure and comScore Builtin Support
+- Incontent & DoubleClick Support
+- Great Support & Active Development.
+- Widgets & WooCommerce
+- Breadcrumb Support added
+- Facebook Instant Articles Support Added
+- AMP Installation Wizard that makes it easy to setup for new users.
+- Category base remover support
+- Tag base remover support
+- 7 New Social Media Integrations added (Reddit, Tumblr, Telegram, Digg, StumbleUpon, Wechat, Viber)
+- AMP Theme Framework Core Support Added. You can now create AMP templates of your own in just minutes. **[More](https://ampforwp.com/amp-theme-framework/)**
+- NEW - Make AMP & Non-AMP Same with just one click!
+- NEW - Allows you to use AMP as primary website!
 
 **[JOIN CHAT GROUP COMMUNITY](https://ampforwp.com/community/)**: Purpose of this group is to get proper suggestions and feedback from plugin users and the community so that we can make the plugin even better.
 
@@ -134,7 +122,6 @@ PHP CSS Parser library used https://github.com/sabberworm/PHP-CSS-Parser - Licen
 
 **[Visit Help area for the Documentation:](https://ampforwp.com/help/)**
 
-
 == Frequently Asked Questions ==
 
 = Can I add analytics? =
@@ -145,21 +132,17 @@ Yes, you easily can. In fact, we have support for 12 Analytics companies. Includ
 
 Yes, you can. We have 6 ad placement slots that are built in and strategically placed to get maximum views. Also, we have [an extension](https://ampforwp.com/advanced-amp-ads/) from which you can insert ads between the content, will get more ad slots and also add custom banners to all the available slots.
 
-
 = Can I extend/Change the AMP design, so it suits my needs? =
 
 Yes, you easily can. We have created this plugin in such a way that it can easily be extended. Check out our [AMP Theme Framework](https://ampforwp.com/tutorials/article/getting-started-amp-framework/)
-
 
 = Do you have any prebuilt designs? =
 
 Yes, we have AMP themes section where we have free and paid designs available. We also update it regularly. You can check it out our [AMP Themes](https://ampforwp.com/themes)
 
-
 = I'm a developer and I want to add custom functionality for a client, can I do that? =
 
 Yes, of course. This plugin is very developer friendly, we have lots of hooks and filters that you can use to extend and customize according to the requirements. Also, we have [developer documentation](https://ampforwp.com/tutorials/article-categories/developer-documentation/) which we update regularly.
-
 
 = How do I report bugs and suggest new features? =
 
@@ -169,13 +152,12 @@ You can report the bugs [here](https://github.com/ahmedkaludi/Accelerated-Mobile
 
 Yes, Absolutely! We would suggest you send your feature request by creating an issue in [Github](https://github.com/ahmedkaludi/Accelerated-Mobile-Pages/issues/new/) . It helps us organize the feedback easily.
 
-
 = How do I get in touch? =
 
 You can contact us from [here](https://ampforwp.com/contact/)
 
-
 == Screenshots ==
+
 1. AMP Homepage
 2. AMP Single Post
 3. Post Navigation in Single
@@ -194,19 +176,22 @@ Device testing done through [BrowserStack](https://www.browserstack.com)
 == Changelog ==
 
 = 1.0.72 (17th December 2020) =
-* Improvement: Added i2Pros and cons plugin compatibility #4837
-* Improvement: Added WP-PageNavi plugin compatibility #4831
-* Improvement: Added Categories Images plugin compatibility #3973
-* Improvement: Added webp images on the homepage and Archives with Imagify plugin #4725
-* Improvement: Added Recipe Compatibility for AMP Extension #4868
-* Fixed: Amp option panel breaks when AECC Global Theme is activated. #4863
-* Fixed: Facebook page embed fails #4871
-* Fixed: Referenced AMP URL is self-canonical AMP while using All in One Seo #4873
+
+- Improvement: Added i2Pros and cons plugin compatibility #4837
+- Improvement: Added WP-PageNavi plugin compatibility #4831
+- Improvement: Added Categories Images plugin compatibility #3973
+- Improvement: Added webp images on the homepage and Archives with Imagify plugin #4725
+- Improvement: Added Recipe Compatibility for AMP Extension #4868
+- Fixed: Amp option panel breaks when AECC Global Theme is activated. #4863
+- Fixed: Facebook page embed fails #4871
+- Fixed: Referenced AMP URL is self-canonical AMP while using All in One Seo #4873
 
 = 1.0.71.2 (12th December 2020) =
-* Fixed: Incorrect AMPHTML on homepage with ?amp #4865
+
+- Fixed: Incorrect AMPHTML on homepage with ?amp #4865
 
 = 1.0.71.1 (10th December 2020) =
-* Fixed: Validation error in author bio alt attribute #4864
+
+- Fixed: Validation error in author bio alt attribute #4864
 
 Full changelog available [ at changelog.txt](https://plugins.svn.wordpress.org/accelerated-mobile-pages/trunk/changelog.txt)
